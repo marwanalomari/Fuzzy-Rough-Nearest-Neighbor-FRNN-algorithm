@@ -1,0 +1,2 @@
+# Fuzzy-Rough-Nearest-Neighbor-FRNN-algorithm
+This python program classifies text instances based on the lower and upper approximation of x to all the lables. This program developed based on Fuzzy Rough Nearest Neighbor (FRNN) algorithm described in the article: Jensen, R., &amp; Cornelis, C. (2011). Fuzzy-rough nearest neighbor classification and prediction. Theoretical Computer Science, 412(42), 5871-5884
